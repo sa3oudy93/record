@@ -7,7 +7,6 @@ packages:
   - record_darwin
   - record_linux
   - record_platform_interface
-  - record_web
   - record_windows
 
 # Don't generate intellij files
